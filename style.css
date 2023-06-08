@@ -1,0 +1,152 @@
+body {
+    background: black;
+    padding: 10;
+    text-align: top;
+}
+
+.logo {
+    color: white;
+    margin-left: 160px;
+    margin-top: 20px;
+    font-family: sans-serif;
+    position: relative;
+    display: flex;
+}
+
+
+.important-links {
+    color: white;
+    font-family: sans-serif;
+    display: flex;
+    float: right;
+    margin-right: 110px;
+    position: absolute;
+    top: 33px;
+    left: 975px;
+    
+}
+
+.important-links:hover {
+    cursor: pointer;
+}
+
+.important-links .additional-links1 {
+    margin-right: 30px;
+}
+
+.important-links .additional-links2 {
+    margin-right: 30px;
+}
+
+.important-links .additional-links3 {
+    margin-right: 30px;
+}
+
+.important-links .additional-links4 {
+    margin-right: 30px;
+}
+
+.paragraphs p {
+    color: white;
+    font-family: sans-serif;
+    position: absolute;
+    top: 230px;
+    margin-left: 160px;
+}
+
+.paragraphs .first{
+    color: rgb(212, 126, 12);
+    margin-left: 160px;
+    font-family: sans-serif;
+    position: absolute;
+    top: 140px;
+  
+}
+
+.paragraphs .second {
+    margin-left: 160px;
+    font-family: sans-serif;
+    color: white;
+    position: absolute;
+    top: 170px;
+  
+}
+
+.img1 {
+    width: 150px;
+    height: 200px;
+    float: right;
+    margin-right: 550px;
+    margin-top: 56px;
+    border-radius: 10px;
+    
+}
+
+.img1 {
+    margin-left: 640px;
+    margin-top: 80px;
+    position: absolute;
+    top: 130px;
+    
+}
+
+.img2 {
+    margin-left: 790px;
+    margin-top: 20px;
+    position: absolute;
+    top: 130px;
+    
+}
+
+.img3 {
+    margin-left: 940px;
+    margin-top: 20px;
+    position: absolute;
+    top: 130px;
+    
+}
+
+.img4 {
+    margin-left: 1090px;
+    margin-top: 80px;
+    position: absolute;
+    top: 130px;
+    
+}
+.img5 {
+    margin-left: 790px;
+    margin-top: 220px;
+    position: absolute;
+    top: 130px;
+    
+}.img6 {
+    margin-left: 940px;
+    margin-top: 220px;
+    position: absolute;
+    top: 130px;
+    
+}
+
+
+.button {
+    background: rgb(212, 126, 12);
+    width: 150px;
+    height: 40px;
+    margin-left: 160px;
+    font-family: sans-serif;
+    position: absolute;
+    top: 410px;
+    color: rgb(255, 255, 255);
+    font-size: large;
+    text-align: center;
+    border-radius: 10px;
+    font-weight: lighter;
+    vertical-align: middle;
+    font-weight: bold;
+    
+    
+}
+
+.button:hover {
+    cursor: pointer;
+}
